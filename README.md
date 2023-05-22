@@ -11,8 +11,11 @@ https://go.dev/doc/install
 https://pkg.go.dev/golang.org/x/tools/present
 
 # Setup
+
 `clone repo`
+
 `present` - use default templates
+
 `present -base="assets"`- use local templates
 
 # Contributing
