@@ -99,6 +99,10 @@ Introductory Lecture 0
 
 `puts "Hello World!"`
 
+## Ruby main features
+
+.image assets/images/ruby-features.jpg 550 800
+
 ## Go
 : Какво?
 * pros & cons
@@ -120,6 +124,10 @@ func main() {
 }
 ```
 
+## Go main features
+
+.image assets/images/go-features.jpg 550 800
+
 ## Python
 
 : Какво?
@@ -135,6 +143,9 @@ func main() {
 
 `print("Hello world!")`
 
+## Python main features
+
+.image assets/images/python-features.jpg 550 800
 
 ## C#
 
@@ -160,6 +171,10 @@ namespace HelloWorld
 }
 ```
 
+## C# main features
+
+.image assets/images/csharp-features.jpg 550 800
+
 ## Javascript
 
 : Какво?
@@ -175,6 +190,9 @@ namespace HelloWorld
 
 `console.log('Hello World');`
 
+## Javascript main features
+
+.image assets/images/js-features.jpg 550 800
 
 ## Фронтенд 🖥
 
@@ -247,10 +265,13 @@ new Vue({
 
 <img align="right" width="500" height="500" src="assets/images/code.jpeg">
 
-* най-първоначални идеи
+* най-първоначални идеи 💡
+
+* ще започнем с малко основни задачки 📝
+* при желание може да покажем още допълнителни за вкъщи 🙌
 
 ## Полезни линкове ⛓️
-: За домашно
+: За домашно - https://exercism.org/
 
 <img align="right" width="420" height="420" src="assets/images/click.jpeg">
 
