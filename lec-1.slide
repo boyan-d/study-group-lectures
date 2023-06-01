@@ -51,7 +51,7 @@ aaaaa = 10 * "A" // "AAAAAAAAAA"
 name == aaaaa // false
 
 subString = substring(railsGirls, "Girls") // този пример не е на конкретен език
-
+// очакваме да върне или "Girls" или позицията където се намира (зависи от езика)
 ```
 
 
